@@ -1,0 +1,1 @@
+python train.py --img 960 --batch 16 --epochs 300 --name "data_v3_No_" --cfg "models/yolov5m.yaml" --data D:/yolov5/5000_v1/data.yaml --weights "yolov5m.pt" 
